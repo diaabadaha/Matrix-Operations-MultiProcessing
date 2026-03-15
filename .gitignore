@@ -1,0 +1,10 @@
+src/*.o
+obj/*.o
+run_project
+*.zip
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
